@@ -1,0 +1,8 @@
+name: Luckyblocks
+version: '${project.version}'
+main: net.rebix.luckyblocks.Luckyblocks
+api-version: 1.19
+
+commands:
+  drop:
+    description: Drop a Luckyblock
